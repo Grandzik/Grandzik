@@ -1,4 +1,4 @@
-### Hi there 👋
+<img align="left" height="200" src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif"/>
 
 <!--
 **Grandzik/Grandzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
