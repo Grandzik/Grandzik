@@ -3,7 +3,7 @@
 ```diff
 Hi I'm Grand and I am Co-Owner at BoskieRP server on FiveM
 
-I'm learning 
+I'm working with this language
  - c#
  - c++
  - python
